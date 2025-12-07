@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class largest{
     public static int largest(int [] arr){
         int largest = Integer.MIN_VALUE;
